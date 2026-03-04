@@ -1,0 +1,17 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: nepremenno
+theme: ["PaperMod"]
+publishDir: "docs"
+params:
+  author: nepremenno
+# markup:
+#   goldmark:
+#     renderer:
+#       unsafe: true
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
