@@ -1,7 +1,7 @@
 ---
 title: Не хватает рабочих рук!
 date: 2024-08-01T00:00:00+00:00
-tags: ["immigration"]
+tags: ["канада","экономика"]
 ---
 ![](./who-will-pick.jpg#center)
 
